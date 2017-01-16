@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "一键JJ",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "一键打开你想要的bilibili视频的JJ页面。再也不需费劲把光标挤到链接里去添加JJ了！你只需点击绿色扩展按钮，在按钮变红之后选择你想JJ的饰品，最后按下红色扩展按钮。JJ页面就会在新的标签页打开。双击键盘J建会有同样效果哟！",
+    "description":"The description of the application, displayed in the web store."
+  }
+}
